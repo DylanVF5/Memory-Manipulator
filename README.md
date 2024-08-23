@@ -1,6 +1,3 @@
-# Projects Utilizing:
-- https://github.com/DylanVF5/Unreal-Engine-5-Base
-
 # Memory Manager
 - A Windows-based tool for external process memory manipulation.
 
@@ -26,3 +23,6 @@ memory->Write<uint64_t>(base + offset, newValue);
 
 # Purpose
 - Designed for educational use in understanding Windows process memory manipulation. Use responsibly and only with processes you own or have permission to modify.
+
+# Projects Utilizing:
+- https://github.com/DylanVF5/Unreal-Engine-5-Base
